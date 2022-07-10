@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izabelass
-- 👀 I’m interested in front-end web development.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in back-end web development.
+- 🌱 I’m currently learning Nodejs.
 - 💞️ I’m looking to collaborate on challenging projects that will help me to develop my skills
 - 📫 How to reach me: email me at soares.izabela96@gmail.com
 
